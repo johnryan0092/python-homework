@@ -1,0 +1,7 @@
+Financial Analysis:
+---------------------------------------------
+Total Months:  86
+Total PnL:   $38382578
+Average PnL Change: $-2315.12
+The greatest increase in PnL took place Feb-2012 amounting to $1926159.
+The greatest decrease in PnL took place Sep-2013 amounting to $-2196167.
